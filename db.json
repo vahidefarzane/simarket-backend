@@ -781,9 +781,13 @@
       "to": "/productsList"
     }
   ],
-  "users": [{
-    "id":1,"phone-number":09038407480,"password":1234
-  }],
+  "users": [
+    {
+      "id": 1,
+      "phone-number": "09038407480",
+      "password": 1234
+    }
+  ],
   "cities": [
     {
       "id": 1,
