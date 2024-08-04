@@ -786,7 +786,7 @@
       "id": 1,
       "phone-number": "09038407480",
       "password": 1234,
-      "hasAccount":true,
+      "hasAccount": true
     }
   ],
   "cities": [
